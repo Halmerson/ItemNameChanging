@@ -1,0 +1,7 @@
+name: ItemNameChanging
+version: 1.0
+main: com.halmerson.niaM
+description: Changes item names
+commands:
+  cn:
+    description: use this command to change the name of your item!
